@@ -3,6 +3,6 @@
 - 👀 I’m interested in object oriented programming, machine learning and music.
 - 🌱 I’m currently focused on ***getting better at Java*** and finding a summer internship!
 - 💞️ I’m looking to collaborate on anything that's within my challenge reach - any project that would help me grow.
-- 📫 How to reach me - you can find me on my [Linkedin profile here](linkedin.com/in/emiliastefanowska/)
+- 📫 How to reach me - you can find me on my [Linkedin profile here](https://www.linkedin.com/in/emiliastefanowska/)
 
 🔨 I'm in mids of updating my GitHub repositories - stay tuned for more!
